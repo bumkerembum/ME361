@@ -4,5 +4,5 @@ using std::cout;
 
 int main()
 {
-    cout << "Deneme3";
+    cout << "Lab2 Denemesi";
 }
